@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pokemons</string>
+    <string name="welcome">Добро пожаловать</string>
+    <string name="registration">Зарегистрироваться</string>
+    <string name="enter">Войти</string>
+    <string name="EnterNameOrId">Введите имя или id покемона</string>
+    <string name="search">Поиск</string>
+    <string name="enterLogin">Введите логин</string>
+    <string name="enterPassword">Введите пароль</string>
+    <string name="SearchHistory">История поиска</string>
+    <string name="delete_ex">🗑️</string>
+</resources>
